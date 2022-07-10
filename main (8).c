@@ -35,3 +35,4 @@ int main ()
   angle = e1 / c1;
   printf ("\nAngle between the vector is cos θ = %f", angle);	//prints the angle between the vectors
 }
+//This C Program can be used for mathematical problem solving. It will be more helpful for school and college students, simplifying their Maths calculation work. 
